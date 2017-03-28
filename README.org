@@ -1,0 +1,8 @@
+* Installing TensorFlow
+** Ubuntu
+   link: https://www.tensorflow.org/install/install_linux
+* file hierachy
+** start.sh
+   start tensorflow with docker. Need to be run as sudo:
+   chmod u+x start.sh
+   sudo ./start.sh
